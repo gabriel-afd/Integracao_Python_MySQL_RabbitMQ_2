@@ -136,5 +136,5 @@ python consumer.py
 
 ## Autor
 
-Desenvolvido por [Seu Nome].  
+Desenvolvido por Gabriel Medeiros de Mendonça.  
 Em caso de dúvidas ou melhorias, sinta-se à vontade para contribuir!
