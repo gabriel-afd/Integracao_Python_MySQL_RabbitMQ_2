@@ -106,7 +106,7 @@ Executa o script `producer.py` para enviar o caminho do CSV e a tabela desejada 
 python producer.py
 ```
 
-### 2. Consumer
+### 2. Consumer(execute primeiramente consumer.py)
 
 Executa o script `consumer.py` para consumir a mensagem da fila e importar os dados:
 
