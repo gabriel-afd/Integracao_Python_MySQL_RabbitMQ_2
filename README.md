@@ -133,6 +133,11 @@ python consumer.py
 - A inserção em batch garante performance otimizada para grandes volumes de dados.
 
 ---
+## Link do Vídeo Demonstrando o Código
+
+<a href="https://youtu.be/FkdklRgLreQ" target="_blank">Assista ao vídeo demonstrando o código</a>
+
+---
 
 ## Autor
 
